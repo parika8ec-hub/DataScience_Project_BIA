@@ -26,13 +26,13 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 1)Clone or Download the Repository:
 
-   git clone https://github.com/parika8ec-hub/DataScience_Project_BIA.git
+   git clone 'https://github.com/parika8ec-hub/DataScience_Project_BIA.git'
    
-   cd DataScience_Project_BIA
+   cd 'DataScience_Project_BIA'
    
 2)Open the Notebook: 
 
-Open the .ipynb file using Jupyter Notebook or Google Colab
+Open the Assignment8.ipynb file using Jupyter Notebook or Google Colab
    
 3)Run the Notebook:
    
