@@ -26,9 +26,9 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 1)Clone or Download the Repository:
 
-   git clone 'https://github.com/parika8ec-hub/DataScience_Project_BIA.git'
+   git clone https://github.com/parika8ec-hub/DataScience_Project_BIA.git
    
-   cd 'DataScience_Project_BIA'
+   cd DataScience_Project_BIA
    
 2)Open the Notebook: 
 
